@@ -17,6 +17,7 @@ h2 {
 header {
     padding: 1.5rem 2rem;
     border-bottom: 2px solid #adc178;
+    background-color: red;
 }
 
 nav a {

@@ -1,0 +1,69 @@
+body {
+    background-color: #fefaea;
+    font-family: century gothic, sans-serif;
+    color: #582f0e
+}
+
+h1 {
+    color: #adc178;
+    font-size: 4rem;
+}
+
+h2 {
+    color: #936639;
+    font-size: 1.5rem;
+}
+
+header {
+    padding: 1.5rem 2rem;
+    border-bottom: 2px solid #adc178;
+}
+
+nav a {
+    color: #6e8b1e;
+}
+
+main {
+    padding: 3rem 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.metodo-titulo {
+    color: #6e8b1e;
+    font-size: 1.1rem;
+    letter-spacing: 0.05rem;
+    text-transform: uppercase;
+    margin-bottom: 0.25rem;
+}
+
+.precio {
+    color: #6e8b1e;
+    font-weight: bold;
+}
+
+footer {
+    padding: 2rem 2rem;
+    border-top: 2px solid #adc178;
+    text-align: center;
+}
+
+#contador-tazas {
+    font-weight: bold;
+    font-size: 2rem;
+    color: #6e8b1e
+}   
+
+#boton-reservar {
+    display:block;
+    margin-top: 1rem;
+    padding: 0.5rem 1.25rem;    
+    background-color: #adc178;
+    border:maroon
+    font-weight: bold;
+    font-family: century gothic, sans-serif;
+    color: #582f0e;
+    font-size: 2rem;
+    cursor: pointer;
+}
+}

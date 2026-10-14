@@ -46,6 +46,7 @@ footer {
     padding: 2rem 2rem;
     border-top: 2px solid #adc178;
     text-align: center;
+    background-color: #adc178;
 }
 
 #contador-tazas {
